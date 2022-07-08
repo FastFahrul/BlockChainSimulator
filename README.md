@@ -1,4 +1,4 @@
-#BlockChainSimulator
+# BlockChainSimulator
 Hi!
 
 In this repository i have uploaded an implementation of doubly linked lists in Java. Doubly linked lists are recursive data structures that store the memory address of the next and previous node for quick data traversal.
